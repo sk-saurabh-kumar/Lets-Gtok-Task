@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/.github
+/functions
 /.pnp
 .pnp.js
 
